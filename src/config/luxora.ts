@@ -271,28 +271,28 @@ export const LUXORA_CONFIG = {
   // Team Members
   team: [
     {
-      name: 'Alex Rivera',
+      name: 'Ashik Babu',
       role: 'Lead Industrial Design & CAD',
       bio: 'Architected the monocoque aerodynamic shell, quick-snap panels, and CAD tolerances.',
-      initials: 'AR',
+      initials: 'AB',
     },
     {
-      name: 'Maya Patel',
+      name: 'Aldrin Tarson Aloor',
       role: 'Hardware & IoT Systems Lead',
       bio: 'Engineered the 2FA biometric NFC module, embedded GPS antenna, and power circuits.',
-      initials: 'MP',
+      initials: 'AL',
     },
     {
-      name: 'Marcus Chen',
+      name: 'Mishal Joy',
       role: 'Materials & Structural Engineering',
       bio: 'Selected high-impact polycarbonates, silent spinner suspension, and stress simulations.',
-      initials: 'MC',
+      initials: 'MJ',
     },
     {
-      name: 'Elena Rostova',
+      name: 'Bryan C J',
       role: 'Software & Mobile Experience Lead',
       bio: 'Designed the mobile tracking telemetry app, firmware encryption, and smart UI.',
-      initials: 'ER',
+      initials: 'BR',
     },
   ] as TeamMember[],
 };
